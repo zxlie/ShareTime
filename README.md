@@ -15,9 +15,10 @@
 
 ###contributionRecord.md
 作为记录，把分享着的主题和ppt记录在列，后期查阅和统计使用。
+
 1. 当我想要分享的时候我怎么做？
         
-         在这个文档中相应的topic中添加本次分享的记录(包括主题，日期，分享人等)，修改topicList.md中Activity列，更新为最新的活跃度
+        在这个文档中相应的topic中添加本次分享的记录(包括主题，日期，分享人等)，修改topicList.md中Activity列，更新为最新的活跃度
 
 2. 关于ppt
         
