@@ -14,10 +14,7 @@
 |<span style="color:red">`angularjs探秘`</span>|||||||
 ||kugua's first share|freshman|kugua|||-|
 |<span style="color:red">`设计中的设计`</span>|||||||
-||PhotoShop基础操作及切图技巧
-||wilee||http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb|-|
-||kugua's first share|freshman|kugua|||-|
+||PhotoShop基础操作及切图技巧||wilee||http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb|-|
 |<span style="color:red">`前端的必备技能`</span>|||||||
-||kugua's first share|freshman|kugua|||-|
 |<span style="color:red">`如何愉快的工作`</span>|||||||
 ||我们怎样让自己工作的更开心||Alien||http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E4%BB%AC%E6%80%8E%E6%A0%B7%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%B7%A5%E4%BD%9C%E5%BE%97%E6%9B%B4%E5%BC%80%E5%BF%83||-|
