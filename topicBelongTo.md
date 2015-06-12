@@ -2,15 +2,15 @@
 
 |Topic|Title|Desc|Sharers|Date|PPT|Remark|
 |:--|:--|:--|:--|:--|:--|:--|
-|`新人分享`|
+|<span style="color:red">`新人分享`</span>|||||||
 ||kugua's first share|freshman|kugua|||-|
-|`深入理解hornbill`|
+|<span style="color:red">`深入理解hornbill`</span>|||||||
 ||kugua's first share|freshman|kugua|||-|
-||`angularjs探秘`|
+|<span style="color:red">`angularjs探秘`</span>|||||||
 ||kugua's first share|freshman|kugua|||-|
-|`设计中的设计`|
+|<span style="color:red">`设计中的设计`</span>|||||||
 ||kugua's first share|freshman|kugua|||-|
-|`前端的必备技能`|
+|<span style="color:red">`前端的必备技能`</span>|||||||
 ||kugua's first share|freshman|kugua|||-|
-|`如何愉快的工作`|
+|<span style="color:red">`如何愉快的工作`</span>|||||||
 ||kugua's first share|freshman|kugua|||-|
