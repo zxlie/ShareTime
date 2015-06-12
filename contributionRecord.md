@@ -10,9 +10,7 @@
 ||dezhi新人分享||dezhi||http://bizfe.meilishuo.com/ppt/zdz-1/index.html|-|
 ||yanghu新人分享||yanghu||http://bizfe.meilishuo.com/ppt/hy_jstest.pdf|-|
 |<span style="color:red">`深入理解hornbill`</span>|||||||
-||kugua's first share|freshman|kugua|||-|
 |<span style="color:red">`angularjs探秘`</span>|||||||
-||kugua's first share|freshman|kugua|||-|
 |<span style="color:red">`设计中的设计`</span>|||||||
 ||PhotoShop基础操作及切图技巧||wilee||http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb|-|
 |<span style="color:red">`前端的必备技能`</span>|||||||
