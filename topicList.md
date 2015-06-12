@@ -1,6 +1,6 @@
 # 技术分享Topic
 
-|ID|TopicName|Desc|Contributors|Activity|Remark|
+|ID|Topic|Desc|Contributors|Activity|Remark|
 |:--|:--|:--|:--|:--|:--|
 |1|新人分享|提供给团队里新加入的同学的分享机会，让大家更了解新人，及发现团队的问题。|all|15|-|
 |2|深入理解hornbill|深入学习和理解hornbill，形成文档和流程图，供大家学习和排错。|||-|
