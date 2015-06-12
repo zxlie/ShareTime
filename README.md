@@ -3,7 +3,7 @@
 
 
 ##一、关于参与
-1. ###topicList.md
+###1. topicList.md
 预设了一些topic，供大家认领，促进大家学习，并且把成果share出来。后期
 
 * 如何增加topic？
@@ -13,7 +13,7 @@
         
         大家在自己感兴趣的topic中得Contributors列填上自己的名字。    
 
-2. ###contributionRecord.md
+###2. contributionRecord.md
 作为记录，把分享着的主题和ppt记录在列，后期查阅和统计使用。
 
 * 当我想要分享的时候我怎么做？
