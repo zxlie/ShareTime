@@ -2,7 +2,7 @@
 ## 新人分享
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|项目开发流程|wilee童鞋详细的讲述了项目开发的各个流程及其各阶段的输入输出，对新同学快速了解开发流程和项目角色及职责有很大帮助|wilee|[项目开发流程.html](http://redmine.meilishuo.com/projects/doota/wiki/项目开发流程)|2014/08/01|-|
+|项目开发流程|wilee童鞋详细的讲述了项目开发的各个流程及其各阶段的输入输出，对新同学快速了解开发流程和项目角色及职责有很大帮助|wilee|[项目开发流程](http://redmine.meilishuo.com/projects/doota/wiki/项目开发流程)|2014/08/01|-|
 |模板用法 和 alias用法|hirra同学这次跟我们share了他在入职以来的项目经验，以及讲述了他开发fedev高大上插件的过程，并且已经应用到开发中|hirra|[模板用法 和 alias用法](http://redmine.meilishuo.com/projects/doota/wiki/%E6%A8%A1%E6%9D%BF%E7%94%A8%E6%B3%95_%E5%92%8C_alias%E7%94%A8%E6%B3%95)|2014/08/08|-|
 |初试|这次zongzhe同学，把其在项目中开发的一个验证身份证号码的组建进行了讲解，并且首次跟我们share了一个设计模式：单例模式；|zongzhe|[初试](http://redmine.meilishuo.com/projects/doota/wiki/%E5%AE%97%E5%93%B2%EF%BC%8D%E5%88%9D%E8%AF%95)|2014/08/15|-|
 |新人串讲|kugua这次的分享主要分为三个部分内容：技术主题、项目把控、坑。多为总结的一些我认为对大家有用的点|kugua|[新人串讲](http://bizfe.meilishuo.com/ppt/gym-1/index.html#1)|2014/08/26||
