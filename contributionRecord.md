@@ -13,4 +13,4 @@
 ##设计中的设计
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|PhotoShop基础操作及切图技巧|wilee的这次分享从基本的图形图像知识讲起，由浅入深讲解了ps的各种工具，结合使用场景和案例分析。|wilee|[PhotoShop基础操作及切图技巧](http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb)|2014/09/12|-|
+|PhotoShop基础操作及切图技巧|wilee的这次分享从基本的图形图像知识讲起，由浅入深讲解了ps的各种工具，结合使用场景和案例分析。|wilee|[PhotoShop基础操作及切图技巧](http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb)|2014/09/19|-|
