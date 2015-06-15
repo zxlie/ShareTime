@@ -10,7 +10,37 @@
 |简单特效和web游戏的实现和方法|dezhi对项目中常用的动画特效进行了讲解，并且给我们带来了自己做的web版贪吃蛇的游戏，游戏很赞.|dezhi|[简单特效和web游戏的实现和方法](http://bizfe.meilishuo.com/ppt/zdz-1/index.html)|2014/09/5|-|
 |前端自动化测试分享|yanghu同学今天给我们带来了js单元测试和js自动化测试方面的新技术，让我们长见识了，其中涉及到的casperjs引起了大家一场小脑暴。|yanghu|[ 前端自动化测试分享](http://bizfe.meilishuo.com/ppt/hy_jstest.pdf)|2014/09/12|-|
 
+
+##angularjs探秘
+|Topic|Desc|Sharers|PPT|Date|Remark|
+|:--|:--|:--:|:--:|:--:|:--:|
+|angularjs调研与总结|zongzhe调研了angularjs的使用场景和目标，为团队使用angular踏出了第一步|zongzhe|[angularjs调研与总结](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/Angular%E8%B0%83%E7%A0%94%E4%B8%8E%E6%80%BB%E7%BB%93)|2014/11/13 |-|
+
+##前端的必备技能
+|Topic|Desc|Sharers|PPT|Date|Remark|
+|:--|:--|:--:|:--:|:--:|:--:|
+|前端基础技巧|CraigZeng讲解了css中margin得一些使用场景和技巧，介绍了BFC/盒模型的概念 |CraigZeng|[css之margin]http://bizfe.meilishuo.com/agg?name=slides&doc=slides/css%E4%B9%8Bmargin)  [BFC](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/BFC) [盒模型](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E8%A7%86%E8%A7%89%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E5%9E%8B) [jsdom性能](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/js%E6%80%A7%E8%83%BD%E4%B9%8Bdom%E5%BD%B1%E5%93%8D)|2014/10/28 |-|
+
+
+##人人都可以是PM
+|Topic|Desc|Sharers|PPT|Date|Remark|
+|:--|:--|:--:|:--:|:--:|:--:|
+|我所理解的登录(1)|wilee从自己在百度的工作经验出发，分享了他对自己参与的产品的理解|wilee|[我所理解的登录(1)(http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%99%BB%E5%BD%95)|2015/1/2|-|
+
+
+##深入理解hornbill
+|Topic|Desc|Sharers|PPT|Date|Remark|
+|:--|:--|:--:|:--:|:--:|:--:|
+|node日志监控系统-eagle|hirra讲解了eagle的前世今生|hirra|[node日志监控系统-eagle](https://github.com/bizfe/ShareTime/blob/master/ppt/w3ctech%E5%88%86%E4%BA%AB-%E9%9F%A9%E8%B7%AF.pdf)|2015/03/28 |-|
+|基于Nodejs的静态文件服务器|kugua讲解了jserver的原理和思想|kugua|[基于Nodejs的静态文件服务器](https://github.com/bizfe/ShareTime/blob/master/ppt/%E5%9F%BA%E4%BA%8ENodejs%E7%9A%84%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8.pptx)|2015/4/19 |-|
+
 ##设计中的设计
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
 |PhotoShop基础操作及切图技巧|wilee的这次分享从基本的图形图像知识讲起，由浅入深讲解了ps的各种工具，结合使用场景和案例分析。|wilee|[PhotoShop基础操作及切图技巧](http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb)|2014/09/19|-|
+
+##如何愉快的工作
+|Topic|Desc|Sharers|PPT|Date|Remark|
+|:--|:--|:--:|:--:|:--:|:--:|
+|怎样愉快的工作||Alien|[怎样愉快的工作](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E4%BB%AC%E6%80%8E%E6%A0%B7%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%B7%A5%E4%BD%9C%E5%BE%97%E6%9B%B4%E5%BC%80%E5%BF%83)|2014/09/24|-|
+|工程师成长之道||Alien|[工程师成长之道](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E9%81%93)|2014/12/12|-|
