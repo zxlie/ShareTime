@@ -19,13 +19,13 @@
 ##前端的必备技能
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|前端基础技巧|CraigZeng讲解了css中margin得一些使用场景和技巧，介绍了BFC/盒模型的概念 |CraigZeng|[css之margin]http://bizfe.meilishuo.com/agg?name=slides&doc=slides/css%E4%B9%8Bmargin)  [BFC](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/BFC) [盒模型](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E8%A7%86%E8%A7%89%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E5%9E%8B) [jsdom性能](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/js%E6%80%A7%E8%83%BD%E4%B9%8Bdom%E5%BD%B1%E5%93%8D)|2014/10/28 |-|
+|前端基础技巧|CraigZeng讲解了css中margin得一些使用场景和技巧，介绍了BFC/盒模型的概念 |CraigZeng|[css之margin](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/css%E4%B9%8Bmargin)  [BFC](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/BFC) [盒模型](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E8%A7%86%E8%A7%89%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E5%9E%8B) [jsdom性能](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/js%E6%80%A7%E8%83%BD%E4%B9%8Bdom%E5%BD%B1%E5%93%8D)|2014/10/28 |-|
 
 
 ##人人都可以是PM
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|我所理解的登录(1)|wilee从自己在百度的工作经验出发，分享了他对自己参与的产品的理解|wilee|[我所理解的登录(1)(http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%99%BB%E5%BD%95)|2015/1/2|-|
+|我所理解的登录(1)|wilee从自己在百度的工作经验出发，分享了他对自己参与的产品的理解|wilee|[我所理解的登录(1)](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%99%BB%E5%BD%95)|2015/1/2|-|
 
 
 ##深入理解hornbill
