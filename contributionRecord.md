@@ -1,6 +1,6 @@
 
 ## 新人分享
-|Topic|Desc|Sharers|Date|PPT|Remark|
+|Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--:|:--:|:--:|:--:|:--:|
 |wilee新人分享||wilee|||-|
 |hirra新人分享||hirra|||-|
