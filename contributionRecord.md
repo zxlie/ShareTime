@@ -3,14 +3,14 @@
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
 |项目开发流程|wilee童鞋详细的讲述了项目开发的各个流程及其各阶段的输入输出，对新同学快速了解开发流程和项目角色及职责有很大帮助|wilee|[项目开发流程.html](http://redmine.meilishuo.com/projects/doota/wiki/项目开发流程)|2014/08/01|-|
-|模板用法 和 alias用法|hirra同学这次跟我们share了他在入职以来的项目经验，以及讲述了他开发fedev高大上插件的过程，并且已经应用到开发中|hirra||2014/08/08|-|
-|初试|这次zongzhe同学，把其在项目中开发的一个验证身份证号码的组建进行了讲解，并且首次跟我们share了一个设计模式：单例模式；|zongzhe||2014/08/15|-|
-| 新人串讲|kugua这次的分享主要分为三个部分内容：技术主题、项目把控、坑。多为总结的一些我认为对大家有用的点|kugua||2014/08/26||
-| Validator组件和fe－style|CraigZeng的分享其在项目中的对规范化的理解，包括对组件开发的规范的理解， 编码规范的理解。|CraigZeng||2014/08/26|-|
-|简单特效和web游戏的实现和方法|dezhi对项目中常用的动画特效进行了讲解，并且给我们带来了自己做的web版贪吃蛇的游戏，游戏很赞.|dezhi||2014/09/5|-|
-| 前端自动化测试分享|yanghu同学今天给我们带来了js单元测试和js自动化测试方面的新技术，让我们长见识了，其中涉及到的casperjs引起了大家一场小脑暴。|yanghu||2014/09/12|-|
+|模板用法 和 alias用法|hirra同学这次跟我们share了他在入职以来的项目经验，以及讲述了他开发fedev高大上插件的过程，并且已经应用到开发中|hirra|[模板用法 和 alias用法](http://redmine.meilishuo.com/projects/doota/wiki/%E6%A8%A1%E6%9D%BF%E7%94%A8%E6%B3%95_%E5%92%8C_alias%E7%94%A8%E6%B3%95)|2014/08/08|-|
+|初试|这次zongzhe同学，把其在项目中开发的一个验证身份证号码的组建进行了讲解，并且首次跟我们share了一个设计模式：单例模式；|zongzhe|[初试](http://redmine.meilishuo.com/projects/doota/wiki/%E5%AE%97%E5%93%B2%EF%BC%8D%E5%88%9D%E8%AF%95)|2014/08/15|-|
+|新人串讲|kugua这次的分享主要分为三个部分内容：技术主题、项目把控、坑。多为总结的一些我认为对大家有用的点|kugua|[新人串讲](http://bizfe.meilishuo.com/ppt/gym-1/index.html#1)|2014/08/26||
+|Validator组件和fe－style|CraigZeng的分享其在项目中的对规范化的理解，包括对组件开发的规范的理解， 编码规范的理解。|CraigZeng|[validate组件和编码规范](http://bizfe.meilishuo.com/ppt/zc-1/index.html#1)|2014/08/26|-|
+|简单特效和web游戏的实现和方法|dezhi对项目中常用的动画特效进行了讲解，并且给我们带来了自己做的web版贪吃蛇的游戏，游戏很赞.|dezhi|[简单特效和web游戏的实现和方法](http://bizfe.meilishuo.com/ppt/zdz-1/index.html)|2014/09/5|-|
+|前端自动化测试分享|yanghu同学今天给我们带来了js单元测试和js自动化测试方面的新技术，让我们长见识了，其中涉及到的casperjs引起了大家一场小脑暴。|yanghu|[ 前端自动化测试分享](http://bizfe.meilishuo.com/ppt/hy_jstest.pdf)|2014/09/12|-|
 
 ##设计中的设计
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|PhotoShop基础操作及切图技巧|wilee的这次分享从基本的图形图像知识讲起，由浅入深讲解了ps的各种工具，结合使用场景和案例分析。|wilee||2014/09/12|-|
+|PhotoShop基础操作及切图技巧|wilee的这次分享从基本的图形图像知识讲起，由浅入深讲解了ps的各种工具，结合使用场景和案例分析。|wilee|[PhotoShop基础操作及切图技巧](http://bizfe.meilishuo.com/slides/detail?_id=541bf784157c9758a2571dcb)|2014/09/12|-|
