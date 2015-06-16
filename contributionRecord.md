@@ -9,8 +9,8 @@
 |Validator组件和fe－style|CraigZeng的分享其在项目中的对规范化的理解，包括对组件开发的规范的理解， 编码规范的理解。|CraigZeng|[validate组件和编码规范](http://bizfe.meilishuo.com/ppt/zc-1/index.html#1)|2014-08-26|-|
 |简单特效和web游戏的实现和方法|dezhi对项目中常用的动画特效进行了讲解，并且给我们带来了自己做的web版贪吃蛇的游戏，游戏很赞.|dezhi|[简单特效和web游戏的实现和方法](http://bizfe.meilishuo.com/ppt/zdz-1/index.html)|2014-09-05|-|
 |前端自动化测试分享|huyang同学今天给我们带来了js单元测试和js自动化测试方面的新技术，让我们长见识了，其中涉及到的casperjs引起了大家一场小脑暴。|huyang|[ 前端自动化测试分享](http://bizfe.meilishuo.com/ppt/hy_jstest.pdf)|2014-09-12|-|
-|高强简记|gaoqiang作为新同学给我们分享了他个人经历。|gaoqiang|[高强简记](http://bizfe.meilishuo.com/ppt/hy_jstest.pdf)|2014-09-12|-|
-|前端自动化测试分享|huyang同学今天给我们带来了js单元测试和js自动化测试方面的新技术，让我们长见识了，其中涉及到的casperjs引起了大家一场小脑暴。|huyang|[ 前端自动化测试分享](http://bizfe.meilishuo.com/ppt/hy_jstest.pdf)|2014-09-12|-|
+|高强简记|gaoqiang作为新同学给我们分享了他个人经历和内蒙风情。|gaoqiang|[高强简记](https://github.com/bizfe/ShareTime/blob/master/ppt/20150522-%E9%AB%98%E5%BC%BA%E7%AE%80%E8%AE%B0-%E9%AB%98%E5%BC%BA.zip)|2014-09-12|-|
+|利昭介绍|lizhao作为新同学给我们分享了其过去的经历感悟|lizhao|[ 前端自动化测试分享](https://github.com/bizfe/ShareTime/blob/master/ppt/20150522-%E6%96%B0%E4%BA%BA%E4%BB%8B%E7%BB%8D-%E5%88%A9%E6%98%AD.zip)|2014-09-12|-|
 
 
 ##angularjs探秘
@@ -25,13 +25,13 @@
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
 |前端基础技巧|CraigZeng讲解了css中margin得一些使用场景和技巧，介绍了BFC/盒模型的概念 |CraigZeng|[css之margin](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/css%E4%B9%8Bmargin)  [BFC](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/BFC) [盒模型](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E8%A7%86%E8%A7%89%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E5%9E%8B) [jsdom性能](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/js%E6%80%A7%E8%83%BD%E4%B9%8Bdom%E5%BD%B1%E5%93%8D)|2014-10-28|-|
-|Web离线存储的方法和实践|huyang调研了web离线存储的方案，并进行了对比 |huyang||2014-12-24|-|
+|Web离线存储的方法和实践|huyang调研了web离线存储的方案，并进行了对比 |huyang|[Web离线存储的方法和实践](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/Web%E7%A6%BB%E7%BA%BF%E5%AD%98%E5%82%A8%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%AE%9E%E8%B7%B5)|2014-12-24|-|
 
 
 ##人人都可以是PM
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|我所理解的登录|wilee从自己在百度的工作经验出发，分享了他对自己参与的产品的理解|wilee|[我所理解的登录(1)](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%99%BB%E5%BD%95)|2015-01-02|-|
+|我所理解的登录|wilee从自己在百度的工作经验出发，分享了他对自己参与的产品的理解|wilee|[我所理解的登录](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%99%BB%E5%BD%95)|2015-01-02|-|
 
 
 ##深入理解hornbill
@@ -50,8 +50,8 @@
 ##如何愉快的工作
 |Topic|Desc|Sharers|PPT|Date|Remark|
 |:--|:--|:--:|:--:|:--:|:--:|
-|怎样愉快的工作||Alien|[怎样愉快的工作](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E4%BB%AC%E6%80%8E%E6%A0%B7%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%B7%A5%E4%BD%9C%E5%BE%97%E6%9B%B4%E5%BC%80%E5%BF%83)|2014-09-24|-|
-|工程师成长之道||Alien|[工程师成长之道](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E9%81%93)|2014-12-12|-|
+|怎样愉快的工作|Alien给我们分销了其工作中的一些工作习惯和时间管理方法，对于在工作中提高效率很有作用。|Alien|[怎样愉快的工作](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E6%88%91%E4%BB%AC%E6%80%8E%E6%A0%B7%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%B7%A5%E4%BD%9C%E5%BE%97%E6%9B%B4%E5%BC%80%E5%BF%83)|2014-09-24|-|
+|工程师成长之道|Alien给来公司参观的应届生做的一次关于工程师成长的分享|Alien|[工程师成长之道](http://bizfe.meilishuo.com/agg?name=slides&doc=slides/%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E9%81%93)|2014-12-12|-|
 
 ##嘉宾专场
 |Topic|Desc|Sharers|PPT|Date|Remark|
