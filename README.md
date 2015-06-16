@@ -17,11 +17,11 @@
 
 * 如何增加topic？
        
-        如果大家有兴趣或者比较熟悉的领域，可在[topicList.md][schedule-link]表中添加一行topic。
+       如果大家有兴趣或者比较熟悉的领域，可在topicList.md表中添加一行topic。
 
 * 如何参与到各个topic中？
-        
-        大家在[topicList.md][schedule-link]文档中，挑选自己感兴趣的topic并在Contributors列填上自己的名字。    
+       
+        大家在topicList.md文档中，挑选自己感兴趣的topic并在Contributors列填上自己的名字。    
 
 * 当我想要分享的时候我怎么做？
  * ***分享前***，在[schedule.md][schedule-link]中按着格式填写信息预定场次。
