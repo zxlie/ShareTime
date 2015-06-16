@@ -24,11 +24,11 @@
         大家在自己感兴趣的topic中得Contributors列填上自己的名字。    
 
 * 当我想要分享的时候我怎么做？
- * 分享前，在[schedule.md][schedule-link]中按着格式填写信息预定场次。
+ * ***分享前***，在[schedule.md][schedule-link]中按着格式填写信息预定场次。
 
- * 分享后，在[contributionRecord.md][contributionRecord-link]文档中相应的topic中添加本次分享的记录(包括主题，日期，分享人等)。
+ * ***分享前***，在[contributionRecord.md][contributionRecord-link]文档中相应的topic中添加本次分享的记录(包括主题，日期，分享人等)。
         
- * ppt尽早在分享前按着：日期-主题-分享人的格式命名，多文件请打包成zip包。
+ * ***分享前***，ppt按：日期-主题-分享人 的格式命名，多文件请打包成zip包，最好通过git上传。附[git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
  * ***关于涉及到隐私和公司敏感信息的文件，压缩加密`zip -e xxxx.zip xxxx.pptx`后上传，密码更新到[bizfe](http://bizfe.meilishuo.com/agg?name=sharetime&doc=sharetime/ppt%E5%88%97%E8%A1%A8)备注中。***
 
