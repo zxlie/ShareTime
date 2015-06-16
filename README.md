@@ -30,7 +30,7 @@
         
  * ppt尽早在分享前按着：日期-主题-分享人的格式命名，多文件请打包成zip包。
 
- * ***关于涉及到隐私和公司敏感信息的文件，压缩加密`zip -e xxxx.zip xxxx.pptx`后上传，密码更新到bizfe，[contributionRecord.md](http://bizfe.meilishuo.com/agg?name=sharetime&doc=sharetime/gtd)备注中。***
+ * ***关于涉及到隐私和公司敏感信息的文件，压缩加密`zip -e xxxx.zip xxxx.pptx`后上传，密码更新到[bizfe](http://bizfe.meilishuo.com/agg?name=sharetime&doc=sharetime/ppt%E5%88%97%E8%A1%A8)备注中。***
 
     
 ##三、奖励
