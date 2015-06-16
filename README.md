@@ -17,7 +17,7 @@
 
 * 如何增加topic？
        
-       如果大家有兴趣或者比较熟悉的领域，可在topicList.md表中添加一行topic。
+        如果大家有兴趣或者比较熟悉的领域，可在topicList.md表中添加一行topic。
 
 * 如何参与到各个topic中？
        
