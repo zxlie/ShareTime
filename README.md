@@ -13,7 +13,7 @@
 预定分享的时间场次，提供给大家查阅。
 
 
-##二、关于参与
+##二、参与
 
 * 如何增加topic？
        
@@ -33,7 +33,7 @@
  * ***关于涉及到隐私和公司敏感信息的文件，压缩加密`zip -e xxxx.zip xxxx.pptx`后上传，密码更新到bizfe，[contributionRecord.md](http://bizfe.meilishuo.com/agg?name=sharetime&doc=sharetime/gtd)备注中。***
 
     
-##三、关于奖励
+##三、奖励
  * 小礼物
     后期会对一些分享者给予一定的小礼物奖励(书，实用的东西)
 
